@@ -52,8 +52,7 @@ and deliver solutions that last.
 
 ## 🛠️ Beyond SAP
 
-- 🏠 **Homelab:** self-hosted infrastructure on TrueNAS with VMs and containers, Home Assistant,
-  a camera NVR with push alerts, UPS-aware shutdowns, monitoring and offsite backups, all over Tailscale
+- 🏠 **Homelab:** a self-hosted lab where I try things before I trust them
 - 🌐 **Websites & e-shops:** Shopify themes and static sites on Cloudflare Pages, with serverless
   Cloudflare Workers for forms and integrations
 - 🧾 **Internal tools:** small web apps for my own business admin, like VAT and myDATA reporting
